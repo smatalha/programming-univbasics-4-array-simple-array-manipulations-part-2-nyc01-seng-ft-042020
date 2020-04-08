@@ -13,3 +13,7 @@ end
 def using_falatten(array)
   array.falatten
 end 
+
+def using_delete(array, string)
+  array.delete(string)
+end 
